@@ -12,4 +12,4 @@ Lettura ad alta voce degli SMS ricevuti.
 (App creata per hobby a 12 anni)
 
 <img width="288" height="512" alt="driveinthecar" src="https://github.com/user-attachments/assets/9811e704-2b30-4a51-8014-9301b17260ef" />
-<img width="1536" height="2432" alt="drive in the car comandi vocali" src="https://github.com/user-attachments/assets/bc1ae6c8-6ef5-47a1-9405-a59e53b51fd0" />
+<img width="288" height="512" alt="drive in the car comandi vocali" src="https://github.com/user-attachments/assets/bc1ae6c8-6ef5-47a1-9405-a59e53b51fd0" />
